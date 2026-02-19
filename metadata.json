@@ -1,0 +1,5 @@
+{
+  "name": "Hamsafar",
+  "description": "A simple, secure matching app for students. Enter your roll number, pick 3 connections, and find mutual matches.",
+  "requestFramePermissions": []
+}
